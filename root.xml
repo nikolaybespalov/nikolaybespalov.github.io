@@ -1,0 +1,3 @@
+<Services>
+    <TileMapService href="https://nikolaybespalov.github.io/tms.xml" title="Tile Map Service" version="1.0"/>
+</Services>
