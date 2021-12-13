@@ -1,0 +1,6 @@
+<TileMapService services="https://nikolaybespalov.github.io/index.xml" version="1.0">
+    <Title/>
+    <TileMaps>
+        <TileMap href="https://nikolaybespalov.github.io/map.xml" profile="none" srs="EPSG:3857" title="asd"/>
+    </TileMaps>
+</TileMapService>
